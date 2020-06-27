@@ -14,3 +14,11 @@ Setting up Git for the first time on my Linux machine. I am learning how to use 
 
 Goals for today:
 1. Post solutions to exercises 1.3 to 1.7.
+
+## 27.06.2020
+I learned a lot about Git yesterday. I also learned how to operate it from the linux terminal. Thanks to the freecodecamp video I have mentioned yesterday.
+
+I couldn't meet the goal for yesterday due to time constraints. But I was able to post solutions for exercises 1.3 to 1.6.
+
+Goals for today:
+1. Post solutions to exercises 1.7 to 1.10.
