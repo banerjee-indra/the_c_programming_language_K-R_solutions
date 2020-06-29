@@ -22,3 +22,11 @@ I couldn't meet the goal for yesterday due to time constraints. But I was able t
 
 Goals for today:
 1. Post solutions to exercises 1.7 to 1.10.
+
+## 28.06.2020
+Goals for today:
+1. Post solutions to exercises 1.11 to 1.12
+
+## 29.06.2020
+Golas for today:
+1. Post solutions to exercises 1.13 to 1.15
