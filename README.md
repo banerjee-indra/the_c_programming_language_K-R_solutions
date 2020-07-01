@@ -28,5 +28,8 @@ Goals for today:
 1. Post solutions to exercises 1.11 to 1.12
 
 ## 29.06.2020
-Golas for today:
+Goals for today:
 1. Post solutions to exercises 1.13 to 1.15
+
+## 30.06.2020
+Posted solutions to exercises 1.16 to 1.17
